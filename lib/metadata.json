@@ -1,15 +1,26 @@
 {
-  "vaultName": "Vault",
-  "lastExport": 1740841114366,
+  "vaultName": "TestOrdner",
+  "lastExport": 1740841616138,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Anhänge/BzMEF-3-E.-Nagl-S.-125-141.pdf",
-    "Anhänge/BzMEF-19-E.-Kopf-S.-73-82.pdf",
-    "Anhänge/Marx-Engels-Werke (MEW) - Band 21 (Engels Mai 1883 - Dez 1889) (Karl Marx Friedrich Engels) (z-lib.org).pdf",
+    "Attachments/BzMEF-3-E.-Nagl-S.-125-141.pdf",
+    "Attachments/BzMEF-19-E.-Kopf-S.-73-82.pdf",
+    "Attachments/cosmonautmag.com-Dialectics of Dependency by Ruy Mauro Marini.pdf",
+    "Attachments/Marx-Engels-Werke (MEW) - Band 21 (Engels Mai 1883 - Dez 1889) (Karl Marx Friedrich Engels) (z-lib.org).pdf",
+    "Attachments/test.pdf.pdf",
+    "Dialektik der Abhängigkeit.canvas",
     "index.md",
+    "Marx-Engels-Werke (MEW) - Band 23 (Das Kapital - Erster Band) (Karl Marx Friedrich Engels) (z-lib.org).pdf",
+    "Presentation resnik.canvas",
+    "Zur Ursprung der Familie LK Block.md",
+    "Zusammenfassung Zur Ursprung der Familie Gesamt.md",
+    "Zusammenfassung Zur Ursprung der Familie Kapitel 1-2.md",
+    "Zusammenfassung Zur Ursprung der Familie Kapitel 3-5.md",
+    "Zusammenfassung Zur Ursprung der Familie Kapitel 6-7.md",
+    "Zusammenfassung Zur Ursprung der Familie Kapitel 8-10.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -24,28 +35,28 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff"
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "mainDependencies": [
     "lib/fonts/94f2f163d4b698242fef.otf",
@@ -62,28 +73,28 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/6155340132a851f6089e.svg",
-    "lib/fonts/mathjax_zero.woff",
-    "lib/fonts/mathjax_main-regular.woff",
-    "lib/fonts/mathjax_main-bold.woff",
-    "lib/fonts/mathjax_math-italic.woff",
-    "lib/fonts/mathjax_main-italic.woff",
-    "lib/fonts/mathjax_math-bolditalic.woff",
-    "lib/fonts/mathjax_size1-regular.woff",
-    "lib/fonts/mathjax_size2-regular.woff",
-    "lib/fonts/mathjax_size3-regular.woff",
-    "lib/fonts/mathjax_size4-regular.woff",
-    "lib/fonts/mathjax_ams-regular.woff",
-    "lib/fonts/mathjax_calligraphic-regular.woff",
-    "lib/fonts/mathjax_calligraphic-bold.woff",
-    "lib/fonts/mathjax_fraktur-regular.woff",
-    "lib/fonts/mathjax_fraktur-bold.woff",
-    "lib/fonts/mathjax_sansserif-regular.woff",
-    "lib/fonts/mathjax_sansserif-bold.woff",
-    "lib/fonts/mathjax_sansserif-italic.woff",
-    "lib/fonts/mathjax_script-regular.woff",
-    "lib/fonts/mathjax_typewriter-regular.woff",
-    "lib/fonts/mathjax_vector-regular.woff",
-    "lib/fonts/mathjax_vector-bold.woff"
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
@@ -93,85 +104,85 @@
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
@@ -404,34 +415,232 @@
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     },
-    "Anhänge/Marx-Engels-Werke (MEW) - Band 21 (Engels Mai 1883 - Dez 1889) (Karl Marx Friedrich Engels) (z-lib.org).pdf": {
-      "modifiedTime": 1740841114366,
-      "sourceSize": 13336248,
-      "exportedPath": "Anhänge/Marx-Engels-Werke (MEW) - Band 21 (Engels Mai 1883 - Dez 1889) (Karl Marx Friedrich Engels) (z-lib.org).pdf",
-      "dependencies": []
-    },
     "lib/styles/other-plugins.css": {
       "modifiedTime": 1740840563097,
       "sourceSize": 6889,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
-    "Anhänge/BzMEF-3-E.-Nagl-S.-125-141.pdf": {
-      "modifiedTime": 1740841114366,
-      "sourceSize": 709782,
-      "exportedPath": "Anhänge/BzMEF-3-E.-Nagl-S.-125-141.pdf",
-      "dependencies": []
-    },
-    "Anhänge/BzMEF-19-E.-Kopf-S.-73-82.pdf": {
-      "modifiedTime": 1740841114366,
-      "sourceSize": 619865,
-      "exportedPath": "Anhänge/BzMEF-19-E.-Kopf-S.-73-82.pdf",
-      "dependencies": []
-    },
     "index.md": {
-      "modifiedTime": 1740841114366,
+      "modifiedTime": 1740841616138,
       "sourceSize": 197,
       "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "Attachments/BzMEF-3-E.-Nagl-S.-125-141.pdf": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 709782,
+      "exportedPath": "Attachments/BzMEF-3-E.-Nagl-S.-125-141.pdf",
+      "dependencies": []
+    },
+    "Attachments/BzMEF-19-E.-Kopf-S.-73-82.pdf": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 619865,
+      "exportedPath": "Attachments/BzMEF-19-E.-Kopf-S.-73-82.pdf",
+      "dependencies": []
+    },
+    "Attachments/cosmonautmag.com-Dialectics of Dependency by Ruy Mauro Marini.pdf": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 561013,
+      "exportedPath": "Attachments/cosmonautmag.com-Dialectics of Dependency by Ruy Mauro Marini.pdf",
+      "dependencies": []
+    },
+    "Attachments/Marx-Engels-Werke (MEW) - Band 21 (Engels Mai 1883 - Dez 1889) (Karl Marx Friedrich Engels) (z-lib.org).pdf": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 13336248,
+      "exportedPath": "Attachments/Marx-Engels-Werke (MEW) - Band 21 (Engels Mai 1883 - Dez 1889) (Karl Marx Friedrich Engels) (z-lib.org).pdf",
+      "dependencies": []
+    },
+    "Attachments/test.pdf.pdf": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 561013,
+      "exportedPath": "Attachments/test.pdf.pdf",
+      "dependencies": []
+    },
+    "Dialektik der Abhängigkeit.canvas": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 52178,
+      "exportedPath": "Dialektik der Abhängigkeit.html",
+      "dependencies": []
+    },
+    "Marx-Engels-Werke (MEW) - Band 23 (Das Kapital - Erster Band) (Karl Marx Friedrich Engels) (z-lib.org).pdf": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 34132753,
+      "exportedPath": "Marx-Engels-Werke (MEW) - Band 23 (Das Kapital - Erster Band) (Karl Marx Friedrich Engels) (z-lib.org).pdf",
+      "dependencies": []
+    },
+    "Presentation resnik.canvas": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 38361,
+      "exportedPath": "Presentation resnik.html",
+      "dependencies": []
+    },
+    "Zur Ursprung der Familie LK Block.md": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 1939,
+      "exportedPath": "Zur Ursprung der Familie LK Block.html",
+      "dependencies": []
+    },
+    "Zusammenfassung Zur Ursprung der Familie Gesamt.md": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 9,
+      "exportedPath": "Zusammenfassung Zur Ursprung der Familie Gesamt.html",
+      "dependencies": []
+    },
+    "Zusammenfassung Zur Ursprung der Familie Kapitel 1-2.md": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 11,
+      "exportedPath": "Zusammenfassung Zur Ursprung der Familie Kapitel 1-2.html",
+      "dependencies": []
+    },
+    "Zusammenfassung Zur Ursprung der Familie Kapitel 3-5.md": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 13,
+      "exportedPath": "Zusammenfassung Zur Ursprung der Familie Kapitel 3-5.html",
+      "dependencies": []
+    },
+    "Zusammenfassung Zur Ursprung der Familie Kapitel 6-7.md": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 15,
+      "exportedPath": "Zusammenfassung Zur Ursprung der Familie Kapitel 6-7.html",
+      "dependencies": []
+    },
+    "Zusammenfassung Zur Ursprung der Familie Kapitel 8-10.md": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 13,
+      "exportedPath": "Zusammenfassung Zur Ursprung der Familie Kapitel 8-10.html",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1740841616138,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     }
   }
