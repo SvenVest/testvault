@@ -1,18 +1,18 @@
 {
   "vaultName": "Antifaschistisches-Seidelhof",
-  "lastExport": 1742048498383,
+  "lastExport": 1742048880502,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Attachments/02-component-diagram-overview.webp",
-    "Attachments/04-required-and-provided-interface.webp",
-    "Attachments/07-component-diagram-with-port.webp",
     "Attachments/BzMEF-3-E.-Nagl-S.-125-141.pdf",
     "Attachments/BzMEF-19-E.-Kopf-S.-73-82.pdf",
     "Attachments/cosmonautmag.com-Dialectics of Dependency by Ruy Mauro Marini.pdf",
     "Attachments/Marx-Engels-Werke (MEW) - Band 21 (Engels Mai 1883 - Dez 1889) (Karl Marx Friedrich Engels) (z-lib.org).pdf",
+    "Attachments/Pasted image 20250315152548.png",
+    "Attachments/Pasted image 20250315152630.png",
+    "Attachments/Pasted image 20250315152653.png",
     "Attachments/test.pdf.pdf",
     "LK-Ursprung/Zur Ursprung der Familie LK Block.md",
     "LK-Ursprung/Zusammenfassung Zur Ursprung der Familie Gesamt.md",
@@ -27,9 +27,9 @@
     "Dialektik der Abhängigkeit.canvas",
     "index.md",
     "Marx-Engels-Werke (MEW) - Band 23 (Das Kapital - Erster Band) (Karl Marx Friedrich Engels) (z-lib.org).pdf",
-    "lib/media/02-component-diagram-overview.webp",
-    "lib/media/04-required-and-provided-interface.webp",
-    "lib/media/07-component-diagram-with-port.webp",
+    "lib/media/pasted-image-20250315152548.png",
+    "lib/media/pasted-image-20250315152630.png",
+    "lib/media/pasted-image-20250315152653.png",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -80,7 +80,10 @@
     "lib/styles/obsidian.css",
     "lib/styles/other-plugins.css",
     "lib/styles/global-variable-styles.css",
-    "lib/styles/main-styles.css"
+    "lib/styles/main-styles.css",
+    "lib/media/02-component-diagram-overview.webp",
+    "lib/media/04-required-and-provided-interface.webp",
+    "lib/media/07-component-diagram-with-port.webp"
   ],
   "mainDependencies": [
     "lib/scripts/graph-wasm.wasm",
@@ -137,289 +140,289 @@
   ],
   "fileInfo": {
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1742048498383,
-      "sourceSize": 11055,
+      "modifiedTime": 1742048880502,
+      "sourceSize": 11025,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 1515,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 137567,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
@@ -431,7 +434,7 @@
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
@@ -443,7 +446,7 @@
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -455,7 +458,7 @@
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1742048498383,
+      "modifiedTime": 1742048880502,
       "sourceSize": 16636,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
@@ -676,24 +679,6 @@
       "exportedPath": "lk-ursprung/zusammenfassung-zur-ursprung-der-familie-kapitel-8-10.html",
       "dependencies": []
     },
-    "Attachments/02-component-diagram-overview.webp": {
-      "modifiedTime": 1742048321434,
-      "sourceSize": 31878,
-      "exportedPath": "attachments/02-component-diagram-overview.webp",
-      "dependencies": []
-    },
-    "Attachments/04-required-and-provided-interface.webp": {
-      "modifiedTime": 1742048321434,
-      "sourceSize": 4882,
-      "exportedPath": "attachments/04-required-and-provided-interface.webp",
-      "dependencies": []
-    },
-    "Attachments/07-component-diagram-with-port.webp": {
-      "modifiedTime": 1742048321434,
-      "sourceSize": 4060,
-      "exportedPath": "attachments/07-component-diagram-with-port.webp",
-      "dependencies": []
-    },
     "Sopra/UML Activity Diagram Sopra.canvas": {
       "modifiedTime": 1742048498383,
       "sourceSize": 6664,
@@ -713,13 +698,13 @@
       "dependencies": []
     },
     "Sopra/UML Shema.canvas": {
-      "modifiedTime": 1742048498383,
-      "sourceSize": 8307,
+      "modifiedTime": 1742048880502,
+      "sourceSize": 7786,
       "exportedPath": "sopra/uml-shema.html",
       "dependencies": [
-        "lib/media/02-component-diagram-overview.webp",
-        "lib/media/04-required-and-provided-interface.webp",
-        "lib/media/07-component-diagram-with-port.webp"
+        "lib/media/pasted-image-20250315152548.png",
+        "lib/media/pasted-image-20250315152630.png",
+        "lib/media/pasted-image-20250315152653.png"
       ]
     },
     "lib/media/02-component-diagram-overview.webp": {
@@ -738,6 +723,42 @@
       "modifiedTime": 1742048498383,
       "sourceSize": 4060,
       "exportedPath": "lib/media/07-component-diagram-with-port.webp",
+      "dependencies": []
+    },
+    "Attachments/Pasted image 20250315152548.png": {
+      "modifiedTime": 1742048880502,
+      "sourceSize": 66759,
+      "exportedPath": "attachments/pasted-image-20250315152548.png",
+      "dependencies": []
+    },
+    "Attachments/Pasted image 20250315152630.png": {
+      "modifiedTime": 1742048880502,
+      "sourceSize": 41064,
+      "exportedPath": "attachments/pasted-image-20250315152630.png",
+      "dependencies": []
+    },
+    "Attachments/Pasted image 20250315152653.png": {
+      "modifiedTime": 1742048880502,
+      "sourceSize": 28181,
+      "exportedPath": "attachments/pasted-image-20250315152653.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250315152548.png": {
+      "modifiedTime": 1742048880502,
+      "sourceSize": 66759,
+      "exportedPath": "lib/media/pasted-image-20250315152548.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250315152630.png": {
+      "modifiedTime": 1742048880502,
+      "sourceSize": 41064,
+      "exportedPath": "lib/media/pasted-image-20250315152630.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20250315152653.png": {
+      "modifiedTime": 1742048880502,
+      "sourceSize": 28181,
+      "exportedPath": "lib/media/pasted-image-20250315152653.png",
       "dependencies": []
     }
   }
